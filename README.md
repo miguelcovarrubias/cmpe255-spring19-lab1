@@ -1,5 +1,6 @@
 # Sample output for friends.py
 
+```
 Sorting by number of friends 
 User Dunn has 3 friends. 
 User Sue has 3 friends. 
@@ -13,4 +14,5 @@ User Devin has 2 friends.
 User Klein has 1 friends. 
 
 Calculating nuber of friends for user 1 
-User 1 has 3 friends 
+User 1 has 3 friends
+``` 
